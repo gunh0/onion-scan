@@ -1,3 +1,16 @@
+### Note
+
+```
+forked from latest master branch for develop
+> latest branch info
+    - Sun Feb 26 2017 02:10:31
+    - Author: Sarah Jamie Lewis <me@sarahjamielewis.com>
+    - Commit: da42865bb5b1a77df6d7a6fa212a86eeff814b61
+```
+
+<br/>
+<br/>
+
 # What is OnionScan?
 
 
